@@ -80,11 +80,4 @@ Temp: 36C  HIGH
 
 ---
 
-##  License
-This project is open-source under the **MIT License**. Feel free to use, modify, and improve!  
-
----
-
- *This project simulates the concept of intelligent cooling systems used in HVAC and embedded applications.*
-```
 
