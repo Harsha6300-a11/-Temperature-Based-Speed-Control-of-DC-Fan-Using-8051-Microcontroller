@@ -1,0 +1,2 @@
+# -Temperature-Based-Speed-Control-of-DC-Fan-Using-8051-Microcontroller
+Temperature-Based Speed Control of DC Fan using 8051 Microcontroller, LM35 sensor, ADC0804, and L293D motor driver. The project implements real-time ambient temperature monitoring and automatic DC fan speed control using software PWM logic, with temperature readings and fan status displayed on a 16x2 LCD. Written in Embedded C (Keil µVision).
